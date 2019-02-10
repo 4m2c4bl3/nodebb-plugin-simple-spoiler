@@ -22,7 +22,7 @@ const replaceSpoilerContent = (content) => {
 	else{
 		newContent = formatSpoiler(newContent);
 	}
-	console.log(newContent);
+	//console.log(newContent);
 	return newContent;
 }
 
